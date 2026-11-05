@@ -1,0 +1,24 @@
+.container{
+    
+}
+
+    #heading{
+
+    text-align: center;
+    color:blue;
+    font-size: 30px;
+    font-family:sans-serif;
+    background-color: rgb(226, 233, 236);
+    }
+.container2{
+    text-align: center;
+    background-color: blue
+}
+
+#heading1{
+    text-align: center;
+    color:rgb(255, 0, 187);
+    font-size: 30px;
+    font-family:sans-serif;
+    background-color: rgb(197, 197, 210);
+}
