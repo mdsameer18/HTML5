@@ -1,0 +1,28 @@
+footer {
+    background-color: #262936;
+    color: #ffffff;
+    padding: 30px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+h3 {
+    color: yellow;
+}
+
+
+.bottom {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.bottom i {
+    font-size: 30px;
+    margin: 15px;
+    color: white;
+    cursor: pointer;
+}
